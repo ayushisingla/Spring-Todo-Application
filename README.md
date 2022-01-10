@@ -1,30 +1,22 @@
-﻿# Spring-Todo-Application
- This application is built using Spring Boot with Spring MVC. It does not use any database such as JDBC, we use collections as database.
- All dependencies are situated in POM.xml file
+# Todo-Application
+Todo management application is helpful to plan, organize, and manage daily tasks.
+
+## Features:
+- You can add or remove your daily todos easily
+- username and password must be authenticated
  
- 
-Login/ Register Page
- (Please enter username and password same for validating and login)
- 
-![1](https://user-images.githubusercontent.com/62255672/123254296-1abf4a80-d50c-11eb-918d-db6ee122a7dd.png)
+## Login/ Register Page
 
-Welcome Page
+![2022-01-10 (1)](https://user-images.githubusercontent.com/62255672/148817319-41b74fe7-81f7-4839-9a74-8a3596ade541.png)
 
-![2](https://user-images.githubusercontent.com/62255672/123254270-13983c80-d50c-11eb-8725-3a08807016ed.png)
+## Let's add some todos
+![2022-01-10 (2)](https://user-images.githubusercontent.com/62255672/148817328-2ed823f4-95ca-4152-95fa-f967dcb7e0c6.png)
 
-Existing To-do List
+## Pending Todo List
+![2022-01-10 (3)](https://user-images.githubusercontent.com/62255672/148817329-ac414885-37e1-4189-a5c3-1acbf3909c58.png)
 
-![3](https://user-images.githubusercontent.com/62255672/123254277-16932d00-d50c-11eb-907b-7d7a7b486088.png)
 
-Let's delete one To-do 
-
-![4](https://user-images.githubusercontent.com/62255672/123254282-185cf080-d50c-11eb-9b49-58cab3db84a8.png)
-
-Let's add one To-do
-
-![5](https://user-images.githubusercontent.com/62255672/123254284-198e1d80-d50c-11eb-9012-8f2e9b9a8930.png)
-
-Updated To-do List
-
-![6](https://user-images.githubusercontent.com/62255672/123254290-1a26b400-d50c-11eb-987d-c563896ac6e2.png)
-
+## Skills used:
+- Java 8 Features
+- Spring MVC
+- RestFul Web Services
